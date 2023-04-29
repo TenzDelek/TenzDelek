@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenzdelek&label=Profile%20views&color=0e75b6&style=flat" alt="tenzdelek" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img src="https://github.com/TenzDelek/image/blob/main/12121.png" width="100">
+<img align="right" src="https://github.com/TenzDelek/image/blob/main/12121.png" width="900">
 - 🔭 I’m currently working on [VIT Clone](https://tenzdelek.github.io/tenzin-website/)
 
 - 🌱 I’m currently learning **Three.js, React, Data Structure**
