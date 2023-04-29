@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tenzin Delek</h1>
 <h3 align="center">A passionate Developer from Tibet living in India</h3>
-<img align="right" alt="codiing" width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="codiing" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenzdelek&label=Profile%20views&color=0e75b6&style=flat" alt="tenzdelek" /> </p>
 
