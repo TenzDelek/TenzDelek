@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tenzin Delek</h1>
-<h3 align="center">A passionate Developer from Tibet living in India</h3>
+<h3 align="center">A Developer and a Keen Learner</h3>
 
 ![Snake animation](https://github.com/TenzDelek/TenzDelek/blob/output/github-contribution-grid-snake.svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tenzdelek&label=Profile%20views&color=0e75b6&style=flat" alt="tenzdelek" /> </p>
