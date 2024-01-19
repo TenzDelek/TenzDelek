@@ -1,4 +1,4 @@
-Tashi Delek, 👋 Welcome to my GitHub! I'm Tenzin Delek, frontend developer
+Tashi Delek, 👋 Welcome to my GitHub! I'm Tenzin Delek, Frontend Developer
 --------------------------------------------------------------------------
 Tenzin.jsx
 ``` Javascript
