@@ -15,7 +15,7 @@ const Detail = {
         }        
     }
     others: {
-    Interest field: ["Data Analyst", "Software Engineering", "Digital Drawing", "3d Modeling"],
+    Interest_field: ["Data Analyst", "Software Engineering", "Digital Drawing", "3d Modeling"],
     Age: "21"
 }
 };
