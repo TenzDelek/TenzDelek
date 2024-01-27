@@ -13,7 +13,7 @@ const Detail = {
         backEnd: {
             js: ["Appwrite", "node"]
         }        
-    }
+    },
     others: {
     Interest_field: ["Data Analyst", "Software Engineering", "Digital Drawing", "3d Modeling"],
     Age: "21"
