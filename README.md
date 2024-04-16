@@ -1,6 +1,6 @@
-Tashi Delek, 👋 Welcome to my GitHub! I'm Tenzin Delek, Developer
+Tashi Delek, 👋 I'm Tenzin Delek, Developer
 --------------------------------------------------------------------------
-Tenzin.jsx
+Tenzin.jsx 
 ``` Javascript
 const Detail = {
     pronouns: "he" | "him",
@@ -8,14 +8,14 @@ const Detail = {
     askMeAbout: ["Web Dev", "Camera", "Editing", "Music", "Coding"],
     technologies: {
         frontEnd: {
-            css: ["Tailwind"]
+            css: ["Tailwind","vanilla"]
         },
         backEnd: {
-            js: ["Appwrite", "node"]
+            stacks: ["Python", "node"]
         }        
     },
     others: {
-    Interest_field: ["Data Analyst", "Software Engineering", "Digital Drawing", "3d Modeling"],
+    Interest_field: ["Software Engineering", "Digital Drawing", "3d Modeling","Data Analyst"],
     Age: "21"
 }
 };
