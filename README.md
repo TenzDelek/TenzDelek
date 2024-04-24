@@ -18,6 +18,7 @@ const Detail = {
     },
     others: {
     Interest_field: ["Software Engineering", "Digital Drawing", "3d Modeling","Data Analyst"],
+    techUse: ["Vscode for editor", "Npm/Bun for package manager", "react-icon is my go to icon ","Clerk for auth"],
     Age: "21"
 }
 };
