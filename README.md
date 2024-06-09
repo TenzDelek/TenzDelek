@@ -23,3 +23,4 @@ const Detail = {
 }
 };
 ```
+Links: [Portfolio](https://tenzindelekportfolio.vercel.app/) and [LinkedIn](https://www.linkedin.com/in/tenzin-delek-8a157724b/)
