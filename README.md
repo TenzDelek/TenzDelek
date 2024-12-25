@@ -1,4 +1,5 @@
-![git](https://github.com/TenzDelek/TenzDelek/assets/122612557/0a177f2c-3e54-458a-a874-3b99c4931f37)
+![Frame 165](https://github.com/user-attachments/assets/a522de62-c9a3-4007-be27-f327c8d4b5b2)
+
 Tashi Delek, 👋 I'm Tenzin Delek, FullStack Product Developer
 --------------------------------------------------------------------------
 Tenzin.jsx 
