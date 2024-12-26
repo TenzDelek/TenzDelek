@@ -1,4 +1,4 @@
-![Frame 165](https://github.com/user-attachments/assets/a522de62-c9a3-4007-be27-f327c8d4b5b2)
+![main](https://github.com/user-attachments/assets/5d94d98d-bb4c-479c-a723-1c317f6e20bb)
 
 Tashi Delek, 👋 I'm Tenzin Delek, FullStack Product Developer
 --------------------------------------------------------------------------
