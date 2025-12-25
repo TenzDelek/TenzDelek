@@ -2,21 +2,18 @@
 ``` Javascript
 const userDetail = {
     pronouns: "he" | "him",
-    code: [Javascript, React, Nextjs, Python, Langchain,Vite],
-    design: [Figma, Adobe suite, Blender],
-    askMeAbout: ["Web Dev", "Camera", "Editing", "Music", "Coding"],
-    technologies: {
-        frontEnd: {
-            css: ["Tailwind","vanilla","scss"]
-        },
-        backEnd: {
-            stacks: ["Python", "node"]
-        }        
-    },
+    code: [
+            {
+            Frontend : ["React","Nextjs","Vite","Tailwind"],
+            Backend : ["FastAPI","Langchain"]
+            }
+        ],
+    design: ["Figma", "Adobe Suite", "Blender"],
+    askMeAbout: ["Design Engineering", "Camera", "Video Editing", "Music"],
     others: {
-    InterestField: ["Software Engineering", "Digital Drawing", "3d Modeling"],
-    techUse: ["Cursor","Mac"],
-    Age: "22"
+    interestField: ["Digital Drawing", "3d Modeling", "cinematography"],
+    tools: ["Cursor IDE","Macbook M3"],
+    Age: "23"
 }
 };
 ```
