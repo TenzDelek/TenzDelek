@@ -6,6 +6,6 @@ local TenzDelek = {
   company = "OpenPecha",
   languages = { "typescript", "python" },
   editor = "cursor",
-  site = "https://tenzindelekportfolio.vercel.app",
+  site = "https://tenzin-delek.vercel.app",
 }
 ```
